@@ -102,13 +102,13 @@ footer {
 
 #nombre {
 	font-family: 'ZCOOL KuaiLe', cursive;
-	margin-left: 460px;
+	margin-left: 463px;
 	margin-top: -40px;
 }
 #nombre a {
 	text-decoration: none;
 	color: #ffffff;
-	font-size: 20px;
+	font-size: 15px;
 	text-shadow: 5px 5px 5px #242917;
 }
 
