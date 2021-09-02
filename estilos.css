@@ -5,6 +5,7 @@
 body {
 	background-color: #ffffff;
 	background-image: url("pattern.jpg");
+	backface-visibility: cover;
 }
 
 #contenedor {
